@@ -1,0 +1,31 @@
+:root {
+  /*change colors and us use good color pallets */
+  
+  /* Primary Color Palette */
+  --primary-color: #ff6f61; /* Example: a vibrant coral color */
+  --secondary-color: #f7f7f7; /* Example: light gray for backgrounds */
+  --accent-color: #4a90e2; /* Example: bright blue for accents */
+
+  /* Text Colors */
+  --text-color: #333333; /* Dark gray for primary text */
+  --secondary-text-color: #7d7d7d; /* Lighter gray for secondary text */
+  --link-color: #4a90e2; /* Same as accent color for links */
+
+  /* Background Colors */
+  --background-color: #ffffff; /* White background */
+  --card-background-color: #f7f7f7; /* Light gray for card backgrounds */
+  --header-background-color: #ff6f61; /* Primary color for header */
+
+  /* Border Colors */
+  --border-color: #e6e6e6; /* Light gray for borders */
+  --divider-color: #cccccc; /* Slightly darker gray for dividers */
+
+  /* Button Colors */
+  --button-primary-bg: #4a90e2; /* Bright blue for primary buttons */
+  --button-primary-text: #ffffff; /* White text for primary buttons */
+  --button-secondary-bg: #ffffff; /* White background for secondary buttons */
+  --button-secondary-text: #4a90e2; /* Bright blue text for secondary buttons */
+
+  /* Miscellaneous */
+  --shadow-color: rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+}
